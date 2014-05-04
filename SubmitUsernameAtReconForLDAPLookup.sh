@@ -1,7 +1,7 @@
 #!/bin/sh
 ####################################################################################################
 #
-# More information: 
+# More information: http://macmule.com/2014/05/04/submit-user-information-from-ad-into-the-jss-at-login-v2/
 #
 # GitRepo: https://github.com/macmule/SubmitUsernameAtReconForLDAPLookup
 #
